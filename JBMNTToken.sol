@@ -7,5 +7,5 @@ import "../node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20Mintabl
 contract JBMNTToken is ERC20Mintable {
   string public constant name = "JBMNT";
   string public constant symbol = "JBMNT";
-  uint8 public constant decimals = 0.0000000000;
+  uint8 public constant decimals = 0.000000001;
 }
